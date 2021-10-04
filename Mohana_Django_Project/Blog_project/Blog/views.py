@@ -4,8 +4,6 @@ from Blog.models import Post
 #from django.http import HttpResponse
 # Create your views here.
 
-# git change
-
 #example
 # posts = [
 #     {
@@ -21,8 +19,6 @@ from Blog.models import Post
 
 #     }
 # ]
-
-# git change
 
 def home(request):
     context = {
